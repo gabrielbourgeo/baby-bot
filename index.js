@@ -19,7 +19,7 @@ const client = new Client({
 });
 
 const TOKEN = process.env.TOKEN;
-const TARGET_USER_ID = '208754859736956929';
+const TARGET_USER_ID = '219647743616876545';
 
 if (!TOKEN) {
   console.error('❌ Missing TOKEN in environment variables');
